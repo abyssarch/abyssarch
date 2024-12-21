@@ -21,10 +21,10 @@ As a software engineer, I am always drawn to new challenges and opportunities to
 [![My Skills](https://skillicons.dev/icons?i=angular,dotnet&theme=dark)](https://skillicons.dev)
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skillicons.dev)
-#### Platforms
-[![My Skills](https://skillicons.dev/icons?i=nodejs,linux,windows&theme=dark)](https://skillicons.dev)
+#### Platforms & Languages
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,html,sass,go,py,cs,cpp,linux,windows&theme=dark)](https://skillicons.dev)
 #### Tools & others
-[![My Skills](https://skillicons.dev/icons?i=git,jenkins,bash,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,jenkins,bash,postman,figma,docker&theme=dark)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
