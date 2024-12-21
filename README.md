@@ -43,7 +43,8 @@ As a software engineer, I am always drawn to new challenges and opportunities to
 
 ---
 
-## Japanese Version / 日本語バージョン
+## Japanese Version
+(日本語バージョン)
 
 ### 自己紹介
 私はソフトウェアエンジニアであり、新しい挑戦や学ぶ機会に常に惹かれます。特に人工知能（AI）の分野に興味があり、AIが私たちの未来をどのように形作るかについて好奇心を抱いています。同じ志を持つ方々と繋がり、革新的な製品を探求し、作りたいと思っています。
