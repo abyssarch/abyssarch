@@ -1,10 +1,3 @@
----
-
-## 🌍 Language / 言語
-
-### [🇬🇧 English](#english-version) | [🇯🇵 日本語](#japanese-version)
-
----
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
@@ -14,6 +7,14 @@
 <div>
     <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
 </div>
+
+---
+
+## 🌍 Language / 言語
+
+### [🇬🇧 English](#english-version) | [🇯🇵 日本語](#japanese-version)
+
+---
 
 ## English Version
 
