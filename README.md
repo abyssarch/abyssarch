@@ -17,17 +17,17 @@
 As a software engineer, I am always drawn to new challenges and opportunities to learn. I am particularly interested in the field of artificial intelligence, and I am curious about the potential of AI to shape our future. I am eager to connect with like-minded individuals to explore and create innovative products.
 
 ### Main skills
-    #### Frameworks
-    [![My Skills](https://skillicons.dev/icons?i=angular,dotnet&theme=dark)](https://skillicons.dev)
-    #### Databases
-    [![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
-    #### Tools
-    [![My Skills](https://skillicons.dev/icons?i=git,jenkins&theme=dark)](https://skillicons.dev)
-    #### Platform
-    [![My Skills](https://skillicons.dev/icons?i=nodejs,linux,windows&theme=dark)](https://skillicons.dev)
+#### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=angular,dotnet&theme=dark)](https://skillicons.dev)
+#### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skillicons.dev)
+#### Platforms
+[![My Skills](https://skillicons.dev/icons?i=nodejs,linux,windows&theme=dark)](https://skillicons.dev)
+#### Tools & others
+[![My Skills](https://skillicons.dev/icons?i=git,jenkins,bash,postman&theme=dark)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
