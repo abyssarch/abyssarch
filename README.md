@@ -5,23 +5,16 @@
 </a>
 
 <!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+    https://www.terminalgif.com
 -->
 
 <div>
     <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
 </div>
 
-<!--
-     My mission, because I'm a superhero!
--->
 
-### My mission
-I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
-
-<!--
-     This is the list of my skills and tools I am studying!
--->
+### About me
+As a software engineer, I am always drawn to new challenges and opportunities to learn. I am particularly interested in the field of artificial intelligence, and I am curious about the potential of AI to shape our future. I am eager to connect with like-minded individuals to explore and create innovative products.
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
