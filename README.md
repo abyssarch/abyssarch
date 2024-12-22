@@ -37,7 +37,10 @@ As a software engineer, I am always drawn to new challenges and opportunities to
 ### Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/trungkiendev/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="mailto:trungkiendev@example.com">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" width="35" height="35" />
     </a>
 </div>
 
@@ -65,10 +68,10 @@ As a software engineer, I am always drawn to new challenges and opportunities to
 ### 私に連絡してください！
 <div>
     <a href="https://www.linkedin.com/in/trungkiendev/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
-    </a>
-     <a href="https://www.linkedin.com/in/trungkiendev/">
         <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="mailto:trungkiendev@example.com">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" width="35" height="35" />
     </a>
 </div>
 
