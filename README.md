@@ -23,7 +23,7 @@ As a software engineer, I am always drawn to new challenges and opportunities to
 
 ### Main skills
 #### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=angular,dotnet&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,pytorch,tensorflow&theme=dark)](https://skillicons.dev)
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skillicons.dev)
 #### Platforms & Languages
@@ -51,7 +51,7 @@ As a software engineer, I am always drawn to new challenges and opportunities to
 
 ### 主なスキル
 #### フレームワーク
-[![My Skills](https://skillicons.dev/icons?i=angular,dotnet&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,pytorch,tensorflow&theme=dark)](https://skillicons.dev)
 #### データベース
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skillicons.dev)
 #### プラットフォーム & 言語
