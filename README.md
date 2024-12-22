@@ -30,11 +30,11 @@ As a software engineer, I am always drawn to new challenges and opportunities to
 #### Frameworks
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,angular,pytorch,tensorflow&theme=dark)
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,dynamodb&theme=dark)
 #### Platforms & Languages
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,html,sass,go,py,cs,cpp,linux,windows&theme=dark)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,typescript,python,golang,html,sass,cpp,linux,windows&theme=dark)
 #### Tools & others
-[![My Skills](https://skillicons.dev/icons?i=git,jenkins,bash,postman,figma,docker&theme=dark)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,bash,figma,docker,postman,jenkins&theme=dark)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure&theme=dark)](https://skillicons.dev)
@@ -61,11 +61,11 @@ As a software engineer, I am always drawn to new challenges and opportunities to
 #### フレームワーク
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,angular,pytorch,tensorflow&theme=dark)
 #### データベース
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,dynamodb&theme=dark)
 #### プラットフォーム & 言語
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,html,sass,go,py,cs,cpp,linux,windows&theme=dark)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,typescript,python,golang,html,sass,cpp,linux,windows&theme=dark)
 #### ツール & その他
-[![My Skills](https://skillicons.dev/icons?i=git,jenkins,bash,postman,figma,docker&theme=dark)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,bash,figma,docker,postman,jenkins&theme=dark)
 
 ### 勉強中
 [![Learning](https://skillicons.dev/icons?i=aws,azure&theme=dark)](https://skillicons.dev)
