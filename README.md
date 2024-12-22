@@ -28,8 +28,7 @@ As a software engineer, I am always drawn to new challenges and opportunities to
 
 ### Main skills
 #### Frameworks
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,nodejs,figma&theme=light)
-[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,pytorch,tensorflow&theme=dark)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,angular,pytorch,tensorflow&theme=dark)
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skillicons.dev)
 #### Platforms & Languages
@@ -60,7 +59,7 @@ As a software engineer, I am always drawn to new challenges and opportunities to
 
 ### 主なスキル
 #### フレームワーク
-[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,pytorch,tensorflow&theme=dark)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,angular,pytorch,tensorflow&theme=dark)
 #### データベース
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skillicons.dev)
 #### プラットフォーム & 言語
