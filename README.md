@@ -16,6 +16,11 @@
 
 ---
 
+<!---
+old: https://skillicons.dev / https://github.com/tandpfun/skill-icons?tab=readme-ov-file#readme
+new: https://github.com/lelouchfr/skill-icons
+-->
+
 ## English Version
 
 ### About me
@@ -23,6 +28,7 @@ As a software engineer, I am always drawn to new challenges and opportunities to
 
 ### Main skills
 #### Frameworks
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,nodejs,figma&theme=light)
 [![My Skills](https://skillicons.dev/icons?i=angular,dotnet,pytorch,tensorflow&theme=dark)](https://skillicons.dev)
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skillicons.dev)
