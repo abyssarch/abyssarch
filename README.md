@@ -17,8 +17,8 @@
 ---
 
 <!---
-old: https://skillicons.dev / https://github.com/tandpfun/skill-icons?tab=readme-ov-file#readme
-new: https://github.com/lelouchfr/skill-icons
+    old: https://skillicons.dev / https://github.com/tandpfun/skill-icons?tab=readme-ov-file#readme
+    new: https://github.com/lelouchfr/skill-icons
 -->
 
 ## English Version
